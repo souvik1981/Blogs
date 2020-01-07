@@ -1,1 +1,6 @@
 updated by user 2
+=======
+Updated by user 1
+
+Another update by user 1
+>>>>>>> 26c62e43395fbada3e8be7725d73c5a66c5b49ad
